@@ -1,0 +1,5 @@
+# Members of the Fachschaft, one full name per line.
+# Copy this file to config/members.txt and enter the real names there.
+# Lines starting with # are ignored.
+Lena Musterfrau
+Max Mustermann
